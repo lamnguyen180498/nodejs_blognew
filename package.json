@@ -1,0 +1,33 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lamnguyen180498/nodejs_blognew.git"
+  },
+  "keywords": [
+    "f8",
+    "blog",
+    "f8",
+    "nodejs",
+    "nodejs"
+  ],
+  "author": "Lamnguen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lamnguyen180498/nodejs_blognew/issues"
+  },
+  "homepage": "https://github.com/lamnguyen180498/nodejs_blognew#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
